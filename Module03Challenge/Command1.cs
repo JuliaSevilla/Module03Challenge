@@ -59,7 +59,6 @@ namespace Module03Challenge
             // 0.5 Remove header row
             furnitureTypeList.RemoveAt(0);
 
-
             //0B. Get information from CSV file - Furniture
             // 0.1 Read csv file
             string furnitureSetData = "C:\\WIP\\RevitAddinBootcamp\\RAB_Module_03_Challenge_Files\\RAB_Module03_Furniture SetsCSV.csv";
